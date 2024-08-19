@@ -1,0 +1,57 @@
+body{
+    background-color: lightgoldenrodyellow;
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+#g1{
+    color:rgb(253, 110, 110);
+    font-size: 200%;
+
+}
+#g2{
+    color:rgb(110, 167, 253);
+    font-size: 200%;
+
+}
+#g3{
+    color:rgb(224, 232, 110);
+    font-size: 200%;
+
+}
+#g4{
+    color:rgb(127, 253, 110);
+    font-size: 170%;
+
+}
+#g5{
+    color:black;
+    font-size: 200%;
+
+}
+#g6{
+    color:white;
+    font-size: 200%;
+
+}
+.Gallery{
+    transition: all 2s ease-in-out 1s;
+    position:relative;
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+    float:left;
+    margin:30px;
+    background-color: #4D5671;
+
+}
+img{
+    transition: all 2s ease-in-out 1s;
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    width: 65%;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
